@@ -1,6 +1,7 @@
 # nginx
 
 Run below command to install nginx 
+
       sudo apt-get install nginx apache2-utils
 
 In elasticsearh.yml add following lines
