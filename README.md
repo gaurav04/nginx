@@ -30,6 +30,6 @@ Now restart the Nginx service:
     sudo service nginx restart
 
 
-#Optional: If we want to use HTTPS genrate ssl cetificate using following links 
+Optional: If we want to use HTTPS genrate ssl cetificate using following links 
 
- #     http://wazuh-documentation.readthedocs.io/en/latest/ossec_elk_kibana.html#nginx-secure-proxy
+      http://wazuh-documentation.readthedocs.io/en/latest/ossec_elk_kibana.html#nginx-secure-proxy
